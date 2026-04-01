@@ -1,1 +1,5 @@
-﻿True
+fastapi
+uvicorn
+motor
+python-dotenv
+pymongo[srv]
